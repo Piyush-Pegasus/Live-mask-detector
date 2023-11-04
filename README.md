@@ -32,7 +32,7 @@ Our Model performs fairly well with an accuracy of 98% and an F1 Score of 97%. T
 2. Clone the Repo by going to your local Git Client and pushing in the command: 
 
 ```sh
-https://github.com/aryan1010/GFG-Hackathon-Mask-Detection.git
+https://github.com/Piyush-Pegasus/Live-mask-detector.git
 ```
 
 3. Install the Packages: 
