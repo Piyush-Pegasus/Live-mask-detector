@@ -2,20 +2,11 @@ from flask import Flask,render_template,request,send_file,send_from_directory
 import numpy as np
 import pandas as pd
 import sklearn.metrics as m
-from keras.utils.np_utils import to_categorical
 import os
 import cv2
 from sklearn.model_selection import train_test_split
-from keras.models import Sequential
-from keras.layers import Dense,Conv2D,Flatten,Activation,MaxPooling2D
 from keras.preprocessing import image
 from keras.models import load_model
-from skimage import transform
-import argparse
-from keras.applications.vgg16 import VGG16
-from keras.models import Model
-import tensorflow as tf
-
 model = load_model('model-facemask.h5')
 
 def processesing(arr):
