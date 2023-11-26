@@ -54,10 +54,10 @@ python app.py
 ## 📜 Screenshots
 
 1. Home Page.   
-![image](https://github.com/aryan1010/GFG-Hackathon-Mask-Detection/assets/65810122/397f69f3-d497-4e49-93b7-bd38b8a3e3d9)
+![image](https://github.com/Piyush-Pegasus/Live-mask-detector/blob/master/home.png)
 
 2. About Page.  
-![image](https://github.com/aryan1010/GFG-Hackathon-Mask-Detection/assets/65810122/f8d50542-c3ca-4775-b943-baccd537a950)
+![image](https://github.com/Piyush-Pegasus/Live-mask-detector/blob/master/about.png)
 
 3. Predictions Page/Result Page.  
 
